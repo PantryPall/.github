@@ -13,10 +13,10 @@ With PantryPall, you will discover the convenience of finding the best cooking i
 
 | Team Name                 | Bangkit Id  | Lerning Path       | Github                                                          |
 | ------------------------- | ----------- | ------------------ | --------------------------------------------------------------- |
-| Fatima Azzahra            | A282DSX1188 | Machine Learning   | []()                                                            |
-| Amelia Ananda             | A172DSX2431 | Machine Learning   | [ ]()                                                           |
-| Khoiri Bahri              | M361DSX2523 | Machine Learning   | []()                                                            |
-| Syifa Candiki Samatha     | M151DSY2921 | Cloud Computing    | []()                                                            |
-| Iqbal Al Fakhri           | C282DSX0983 | Cloud Computing    | [IqbalAlFakhri](https://github.com/IqbalAlFakhri)               |
-| Dariwan                   | C282DSX2611 | Mobile Development | [dariwan](https://github.com/dariwan)                           |
+| Fatima Azzahra            | M172DSY2350 | Machine Learning   | []()                                                            |
+| Amelia Ananda             | M132DSY0342 | Machine Learning   | [ ]()                                                           |
+| Khoiri Bahri              | M309DSX3444 | Machine Learning   | []()                                                            |
+| Syifa Candiki Samatha     | C132DKY3819 | Cloud Computing    | []()                                                            |
+| Iqbal Al Fakhri           | C172DSX2403 | Cloud Computing    | [IqbalAlFakhri](https://github.com/IqbalAlFakhri)               |
+| Dariwan                   | A172DSX2068 | Mobile Development | [dariwan](https://github.com/dariwan)                           |
 
