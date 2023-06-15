@@ -13,7 +13,7 @@ With PantryPall, you will discover the convenience of finding the best cooking i
 
 | Team Name                 | Bangkit Id  | Lerning Path       | Github                                                          |
 | ------------------------- | ----------- | ------------------ | --------------------------------------------------------------- |
-| Fatima Azzahra            | M172DSY2350 | Machine Learning   | []()                                                            |
+| Fatima Azzahra            | M172DSY2350 | Machine Learning   | [spsudos](https://github.com/spsudos)                           |
 | Amelia Ananda             | M132DSY0342 | Machine Learning   | [ ]()                                                           |
 | Khoiri Bahri              | M309DSX3444 | Machine Learning   | []()                                                            |
 | Syifa Candiki Samatha     | C132DKY3819 | Cloud Computing    | []()                                                            |
